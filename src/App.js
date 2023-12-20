@@ -20,9 +20,15 @@ function App() {
         </Routes>
     </div>
   </Router>
+
+
+ 
+  
+  );
   </div>
     
   );
 }
+
 
 export default App;
