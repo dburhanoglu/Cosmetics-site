@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+/*import React, { Component } from 'react'
 //import { productData } from './Main.js';
 function ProductDetail({match,ProductDetail}) {
     const productId = match.params.id;
@@ -17,4 +17,4 @@ function ProductDetail({match,ProductDetail}) {
     );
  
 }
-export default ProductDetail;
+export default ProductDetail;*/
